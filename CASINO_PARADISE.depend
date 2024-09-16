@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1698084819 source:c:\users\toto scapini\downloads\casino_paradise\casino_paradise\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"funciones_globales.h"
+	"clsFecha.h"
+	"jugador.h"
+
+1698081567 c:\users\toto scapini\downloads\casino_paradise\casino_paradise\funciones_globales.h
+
+1698083215 c:\users\toto scapini\downloads\casino_paradise\casino_paradise\clsfecha.h
+
+1698085815 c:\users\toto scapini\downloads\casino_paradise\casino_paradise\jugador.h
+
+1700114147 source:c:\users\marti\onedrive\escritorio\casino_paradise\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	<algorithm>
+	"funciones_globales.h"
+	"clsFecha.h"
+	"jugador.h"
+	"desarrolloJugador.h"
+	"iniciarSesion.h"
+	"dinero.h"
+	"menuPrincipal.h"
+	"clsIceField.h"
+	"desarrolloIceField.h"
+	"clsRuleta.h"
+	"desarrolloRuleta.h"
+	"clsBlackjack.h"
+	"desarrolloBlackjack.h"
+	<conio.h>
+
+1698081567 c:\users\marti\onedrive\escritorio\casino_paradise\funciones_globales.h
+
+1700745245 c:\users\marti\onedrive\escritorio\casino_paradise\clsfecha.h
+
+1699509093 c:\users\marti\onedrive\escritorio\casino_paradise\jugador.h
+
+1700112991 c:\users\marti\onedrive\escritorio\casino_paradise\iniciarsesion.h
+
+1700109204 c:\users\marti\onedrive\escritorio\casino_paradise\desarrollojugador.h
+
+1698281566 c:\users\marti\onedrive\escritorio\casino_paradise\cargardinero.h
+
+1700114147 source:c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	<algorithm>
+	"funciones_globales.h"
+	"clsFecha.h"
+	"jugador.h"
+	"desarrolloJugador.h"
+	"iniciarSesion.h"
+	"dinero.h"
+	"menuPrincipal.h"
+	"clsIceField.h"
+	"desarrolloIceField.h"
+	"clsRuleta.h"
+	"desarrolloRuleta.h"
+	"clsBlackjack.h"
+	"desarrolloBlackjack.h"
+	<conio.h>
+
+1698081567 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\funciones_globales.h
+
+1698784589 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\clsfecha.h
+
+1699509093 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\jugador.h
+
+1700109204 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\desarrollojugador.h
+
+1700112991 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\iniciarsesion.h
+
+1698617575 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\cargardinero.h
+
+1698729553 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\menuprincipal.h
+
+1698676857 source:c:\users\totos\downloads\casino_paradise (1)\casino_paradise\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"funciones_globales.h"
+	"clsFecha.h"
+	"jugador.h"
+	"desarrolloJugador.h"
+	"iniciarSesion.h"
+	"cargarDinero.h"
+	"menuPrincipal.h"
+
+1698081567 c:\users\totos\downloads\casino_paradise (1)\casino_paradise\funciones_globales.h
+
+1698083215 c:\users\totos\downloads\casino_paradise (1)\casino_paradise\clsfecha.h
+
+1698689180 c:\users\totos\downloads\casino_paradise (1)\casino_paradise\jugador.h
+
+1698616047 c:\users\totos\downloads\casino_paradise (1)\casino_paradise\desarrollojugador.h
+
+1698682734 c:\users\totos\downloads\casino_paradise (1)\casino_paradise\iniciarsesion.h
+
+1698689298 c:\users\totos\downloads\casino_paradise (1)\casino_paradise\cargardinero.h
+
+1698688893 c:\users\totos\downloads\casino_paradise (1)\casino_paradise\menuprincipal.h
+
+1698729397 source:c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"funciones_globales.h"
+	"clsFecha.h"
+	"jugador.h"
+	"desarrolloJugador.h"
+	"iniciarSesion.h"
+	"dinero.h"
+	"menuPrincipal.h"
+
+1698081567 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\funciones_globales.h
+
+1698083215 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\clsfecha.h
+
+1698728625 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\jugador.h
+
+1698694722 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\desarrollojugador.h
+
+1698727187 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\iniciarsesion.h
+
+1698692518 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\cargardinero.h
+
+1698729553 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\menuprincipal.h
+
+1685923980 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698729256 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise (1)\casino_paradise\dinero.h
+
+1685923980 c:\users\marti\onedrive\escritorio\casino_paradise\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699509440 c:\users\marti\onedrive\escritorio\casino_paradise\dinero.h
+
+1698729553 c:\users\marti\onedrive\escritorio\casino_paradise\menuprincipal.h
+
+1698789997 source:c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"funciones_globales.h"
+	"clsFecha.h"
+	"jugador.h"
+	"desarrolloJugador.h"
+	"iniciarSesion.h"
+	"dinero.h"
+	"menuPrincipal.h"
+	"desarrolloIceField.h"
+
+1685923980 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698081567 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\funciones_globales.h
+
+1698784589 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\clsfecha.h
+
+1698786062 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\jugador.h
+
+1698780128 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\desarrollojugador.h
+
+1698779790 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\iniciarsesion.h
+
+1698729256 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\dinero.h
+
+1698729553 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\menuprincipal.h
+
+1698799346 c:\users\gabir\onedrive\documentos\utn\labo2\casino_paradise\desarrolloicefield.h
+
+1685923980 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699509440 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\dinero.h
+
+1700109568 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\desarrolloicefield.h
+
+1700115005 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\clsicefield.h
+
+1700115005 c:\users\marti\onedrive\escritorio\casino_paradise\clsicefield.h
+
+1700109568 c:\users\marti\onedrive\escritorio\casino_paradise\desarrolloicefield.h
+
+1700705908 c:\users\marti\onedrive\escritorio\casino_paradise\desarrolloruleta.h
+
+1700112807 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\desarrolloruleta.h
+
+1700112914 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\clsruleta.h
+
+1700123768 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\clsblackjack.h
+
+1700123834 c:\users\user\onedrive\documentos\utn\labo2\casino_paradise\desarrolloblackjack.h
+
+1700736544 c:\users\marti\onedrive\escritorio\casino_paradise\clsruleta.h
+
+1700123768 c:\users\marti\onedrive\escritorio\casino_paradise\clsblackjack.h
+
+1700123834 c:\users\marti\onedrive\escritorio\casino_paradise\desarrolloblackjack.h
+
